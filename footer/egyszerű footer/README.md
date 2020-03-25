@@ -1,0 +1,1 @@
+A readme (olvassel) fájlok formátuma Markdown (.md).
